@@ -1,0 +1,9 @@
+class ogane():
+    def oganeson():
+        
+        
+        
+        
+        
+
+        
